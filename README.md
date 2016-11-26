@@ -1,2 +1,2 @@
 # podcast-theme
-Free Bootstrap based theme for hoisting podcasts
+Free Bootstrap based theme for hosting podcasts
